@@ -1,1 +1,6 @@
+
+# Ignore lua Windows binaries
+*.exe
+*.dll
 lua-5.4.2_Win64_bin/
+
